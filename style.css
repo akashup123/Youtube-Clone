@@ -223,6 +223,7 @@ padding-left: 7%;
 .right-sidebar .side-video-list img{
     width: 14vw;
     height:14vh;
+    padding-left:4px;
 }
 .play-video video{
     width:100%;
@@ -388,6 +389,10 @@ flex-basis: 49%;
     }
     .right-sidebar{
         flex-basis: 100%;
+    }
+    .right-sidebar .side-video-list img{
+        width: 42vw;
+        height:18vh;
     }
     .play-container{
         padding-left: 5%;
